@@ -1,2 +1,2 @@
 # mi-primer-repositorio
-Install commit
+Mi primer repositorio en GitHUB para el curso de freeCodeCAMP
